@@ -6,7 +6,7 @@
 >[Link para acceder al sitio](http://0521ptc1n1-grupo7.s3-website.us-east-2.amazonaws.com)
 
 ## API
-[Link a la documentación](API Postman)
+[Link a la documentación] https://documenter.getpostman.com/view/18553460/2s8YekQEtp
 [Json con el run de los scripts](uploads/0f561f0a506f5cd196c140584d0e097a/Proyecto_Final.postman_test_run.json)
 
 ## UML
