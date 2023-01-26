@@ -1,0 +1,111 @@
+{
+	"id": "cbaed6bf-7f70-492b-81bc-8a40e2cef94d",
+	"name": "Proyecto Final",
+	"timestamp": "2022-10-26T00:05:06.833Z",
+	"collection_id": "18553460-c1bc1974-efc1-431a-a5e6-981fbebbab31",
+	"folder_id": 0,
+	"environment_id": "18553460-2de1fe8f-77d9-4494-9628-0d281c891dfc",
+	"totalPass": 3,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "2a5f8c5f-9516-40d6-81ea-2bda7c4b6c76",
+			"name": "Add category",
+			"url": "http://localhost:8080/categories/add",
+			"time": 10,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful POST request": true
+			},
+			"testPassFailCounts": {
+				"Successful POST request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				10
+			],
+			"allTests": [
+				{
+					"Successful POST request": true
+				}
+			]
+		},
+		{
+			"id": "e14f4b85-5c5a-4ebd-8ef9-2801bf29742a",
+			"name": "Delete category",
+			"url": "http://localhost:8080/categories/delete/3",
+			"time": 8,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful POST request": true
+			},
+			"testPassFailCounts": {
+				"Successful POST request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				8
+			],
+			"allTests": [
+				{
+					"Successful POST request": true
+				}
+			]
+		},
+		{
+			"id": "8206984f-7a66-4f5d-ab78-f4ba50f98846",
+			"name": "Get categories",
+			"url": "http://localhost:8080/categories/list/true",
+			"time": 8,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful POST request": true
+			},
+			"testPassFailCounts": {
+				"Successful POST request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				8
+			],
+			"allTests": [
+				{
+					"Successful POST request": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 26,
+	"collection": {
+		"requests": [
+			{
+				"id": "2a5f8c5f-9516-40d6-81ea-2bda7c4b6c76",
+				"method": "POST"
+			},
+			{
+				"id": "e14f4b85-5c5a-4ebd-8ef9-2801bf29742a",
+				"method": "DELETE"
+			},
+			{
+				"id": "8206984f-7a66-4f5d-ab78-f4ba50f98846",
+				"method": "GET"
+			}
+		]
+	}
+}

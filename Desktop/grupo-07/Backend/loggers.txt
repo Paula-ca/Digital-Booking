@@ -1,0 +1,776 @@
+[2022-10-20 20:13:05] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-20 20:13:05] [ ERROR] [CategoriaController:47] Error al listar categorias
+[2022-10-20 20:14:39] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-20 20:14:39] [ ERROR] [CategoriaController:47] Error al listar categorias
+[2022-10-20 20:14:46] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-10-20 20:14:46] [ INFO ] [CategoriaController:28] Categoria agregada con id: 1
+[2022-10-20 20:15:57] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-10-20 20:15:57] [ INFO ] [CategoriaController:28] Categoria agregada con id: 2
+[2022-10-20 20:16:08] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-20 20:16:08] [ INFO ] [CategoriaController:44] Categorias listadas
+[2022-10-20 20:18:17] [ DEBUG] [CategoriaController:50] Eliminando categoria...
+[2022-10-20 20:18:17] [ ERROR] [CategoriaController:56] Categoria con id 1 no encontrada
+[2022-10-20 20:18:53] [ DEBUG] [CategoriaController:50] Eliminando categoria...
+[2022-10-20 20:18:53] [ ERROR] [CategoriaController:56] Categoria con id 1 no encontrada
+[2022-10-20 20:19:14] [ DEBUG] [CategoriaController:50] Eliminando categoria...
+[2022-10-20 20:19:14] [ ERROR] [CategoriaController:56] Categoria con id 2 no encontrada
+[2022-10-20 20:19:44] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-20 20:19:44] [ ERROR] [CategoriaController:47] Error al listar categorias
+[2022-10-20 20:20:57] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-10-20 20:20:57] [ INFO ] [CategoriaController:28] Categoria agregada con id: 1
+[2022-10-20 20:21:15] [ DEBUG] [CategoriaController:50] Eliminando categoria...
+[2022-10-20 20:21:16] [ INFO ] [CategoriaController:52] Categoria eliminada con id: 1
+[2022-10-21 18:48:02] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-10-21 18:48:02] [ INFO ] [CategoriaController:28] Categoria agregada con id: 1
+[2022-10-21 18:49:33] [ DEBUG] [CategoriaController:58] Eliminando categoria...
+[2022-10-21 18:49:33] [ INFO ] [CategoriaController:61] Categoria eliminada con id: 1
+[2022-10-21 18:50:44] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-21 18:50:44] [ ERROR] [CategoriaController:47] Error al listar categorias
+[2022-10-21 18:51:26] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-21 18:51:26] [ ERROR] [CategoriaController:47] Error al listar categorias
+[2022-10-21 18:51:29] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-10-21 18:51:29] [ INFO ] [CategoriaController:28] Categoria agregada con id: 1
+[2022-10-21 18:51:31] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-21 18:51:31] [ ERROR] [CategoriaController:47] Error al listar categorias
+[2022-10-21 19:05:35] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-10-21 19:05:35] [ INFO ] [CategoriaController:28] Categoria agregada con id: 2
+[2022-10-21 19:05:58] [ DEBUG] [CategoriaController:58] Eliminando categoria...
+[2022-10-21 19:05:58] [ INFO ] [CategoriaController:61] Categoria eliminada con id: 1
+[2022-10-21 19:06:01] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-21 19:06:01] [ ERROR] [CategoriaController:47] Error al listar categorias
+[2022-10-21 19:07:08] [ DEBUG] [CategoriaController:58] Eliminando categoria...
+[2022-10-21 19:07:08] [ INFO ] [CategoriaController:61] Categoria eliminada con id: 1
+[2022-10-21 19:08:54] [ DEBUG] [CategoriaController:58] Eliminando categoria...
+[2022-10-21 19:08:54] [ INFO ] [CategoriaController:61] Categoria eliminada con id: 1
+[2022-10-21 19:09:08] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-21 19:09:08] [ ERROR] [CategoriaController:47] Error al listar categorias
+[2022-10-21 19:11:41] [ DEBUG] [CategoriaController:58] Eliminando categoria...
+[2022-10-21 19:11:41] [ INFO ] [CategoriaController:62] Categoria eliminada con id: 1
+[2022-10-21 19:11:51] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-21 19:11:51] [ INFO ] [CategoriaController:44] Categorias listadas
+[2022-10-21 19:13:58] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-21 19:13:58] [ INFO ] [CategoriaController:44] Categorias listadas
+[2022-10-21 19:14:44] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-21 19:14:44] [ INFO ] [CategoriaController:44] Categorias listadas
+[2022-10-21 19:15:40] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-21 19:15:40] [ INFO ] [CategoriaController:44] Categorias listadas
+[2022-10-24 20:45:39] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-10-24 20:45:39] [ INFO ] [CategoriaController:28] Categoria agregada con id: 3
+[2022-10-24 20:45:45] [ DEBUG] [CategoriaController:61] Eliminando categoria...
+[2022-10-24 20:45:45] [ INFO ] [CategoriaController:64] Categoria eliminada con id: 3
+[2022-10-24 21:07:20] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-24 21:07:20] [ INFO ] [CategoriaController:44] Categorias listadas
+[2022-10-24 21:07:28] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-24 21:07:28] [ INFO ] [CategoriaController:44] Categorias listadas
+[2022-10-24 21:22:49] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-24 21:22:49] [ INFO ] [CategoriaController:44] Categorias listadas
+[2022-10-24 21:22:55] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-24 21:22:55] [ INFO ] [CategoriaController:44] Categorias listadas
+[2022-10-24 21:28:08] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-10-24 21:28:08] [ INFO ] [CategoriaController:44] Categorias listadas
+<<<<<<< HEAD
+[2022-11-07 20:47:36] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-07 20:53:04] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-07 20:53:40] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-11-07 20:53:40] [ ERROR] [CategoriaController:47] Error al listar categorias
+[2022-11-07 20:53:45] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-11-07 20:53:45] [ INFO ] [CategoriaController:28] Categoria agregada con id: 1
+[2022-11-07 20:53:50] [ DEBUG] [CategoriaController:57] Actualizando categoria...
+[2022-11-07 20:53:59] [ DEBUG] [CategoriaController:57] Actualizando categoria...
+[2022-11-07 20:54:00] [ INFO ] [CategoriaController:60] Categoria actualizada con id: 1
+[2022-11-07 20:54:08] [ DEBUG] [CategoriaController:54] Eliminando categoria...
+[2022-11-07 20:54:08] [ INFO ] [CategoriaController:57] Categoria eliminada con id: 1
+[2022-11-07 20:55:05] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-11-07 20:55:05] [ INFO ] [CategoriaController:28] Categoria agregada con id: 2
+[2022-11-07 20:55:18] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-07 20:56:01] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-11-07 20:56:01] [ INFO ] [CategoriaController:28] Categoria agregada con id: 1
+[2022-11-07 20:56:05] [ DEBUG] [CategoriaController:28] Agregando producto...
+=======
+[2022-11-06 15:43:54] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-06 15:44:19] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-06 15:44:23] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-06 15:45:20] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-11-06 15:45:20] [ ERROR] [CategoriaController:47] Error al listar categorias
+[2022-11-06 15:45:26] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-11-06 15:45:26] [ INFO ] [CategoriaController:28] Categoria agregada con id: 4
+[2022-11-06 15:45:28] [ DEBUG] [CategoriaController:41] Listando categorias...
+[2022-11-06 15:45:28] [ INFO ] [CategoriaController:44] Categorias listadas
+[2022-11-06 15:45:41] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-06 15:46:37] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-06 15:50:36] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-06 15:52:22] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-06 15:53:15] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-06 15:53:15] [ INFO ] [CategoriaController:31] Producto agregado con id: 1
+[2022-11-06 15:57:11] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-06 15:57:11] [ INFO ] [CategoriaController:31] Producto agregado con id: 2
+[2022-11-06 15:58:35] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-06 15:58:35] [ INFO ] [CategoriaController:31] Producto agregado con id: 3
+[2022-11-07 19:24:02] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-11-07 19:24:02] [ INFO ] [CategoriaController:28] Categoria agregada con id: 1
+[2022-11-07 19:24:20] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-07 19:24:20] [ INFO ] [CategoriaController:31] Producto agregado con id: 1
+[2022-11-07 19:30:22] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-07 19:41:37] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-07 19:41:37] [ INFO ] [CategoriaController:31] Producto agregado con id: 2
+[2022-11-07 19:41:52] [ DEBUG] [CategoriaController:44] Listando productos...
+[2022-11-07 19:41:52] [ INFO ] [CategoriaController:47] Productos listados
+[2022-11-08 14:37:11] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 14:37:58] [ DEBUG] [CategoriaController:25] Agregando categoria...
+[2022-11-08 14:37:58] [ INFO ] [CategoriaController:28] Categoria agregada con id: 1
+[2022-11-08 14:38:01] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 14:39:51] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 14:39:51] [ INFO ] [CategoriaController:31] Producto agregado con id: 3
+[2022-11-08 15:00:57] [ DEBUG] [CategoriaController:44] Listando productos...
+[2022-11-08 15:00:57] [ INFO ] [CategoriaController:47] Productos listados
+[2022-11-08 15:02:18] [ DEBUG] [CategoriaController:44] Listando productos...
+[2022-11-08 15:02:18] [ INFO ] [CategoriaController:47] Productos listados
+[2022-11-08 15:06:14] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:08:39] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:14:44] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:15:32] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:15:54] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:16:42] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:24:08] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:24:12] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:24:12] [ INFO ] [CategoriaController:31] Producto agregado con id: 11
+[2022-11-08 15:47:16] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:47:16] [ INFO ] [CategoriaController:31] Producto agregado con id: 12
+[2022-11-08 15:48:35] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:49:42] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:50:18] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:53:36] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 15:53:46] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 16:01:35] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 16:01:44] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 16:01:44] [ INFO ] [CategoriaController:31] Producto agregado con id: null
+[2022-11-08 16:02:01] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 16:02:01] [ INFO ] [CategoriaController:31] Producto agregado con id: null
+[2022-11-08 16:03:08] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 16:03:08] [ INFO ] [CategoriaController:31] Producto agregado con id: null
+[2022-11-08 16:04:31] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 16:04:31] [ INFO ] [CategoriaController:31] Producto agregado con id: null
+[2022-11-08 16:09:49] [ DEBUG] [CategoriaController:28] Agregando producto...
+[2022-11-08 16:09:49] [ INFO ] [CategoriaController:31] Producto agregado con id: null
+[2022-11-08 16:11:08] [ DEBUG] [CategoriaController:31] Agregando producto...
+[2022-11-08 16:11:08] [ INFO ] [CategoriaController:37] Producto agregado con id: null
+[2022-11-08 16:12:34] [ DEBUG] [CategoriaController:31] Agregando producto...
+[2022-11-08 16:12:34] [ INFO ] [CategoriaController:37] Producto agregado con id: 13
+[2022-11-08 19:15:53] [ DEBUG] [CategoriaController:50] Listando productos...
+[2022-11-08 19:15:53] [ INFO ] [CategoriaController:53] Productos listados
+[2022-11-08 19:29:25] [ DEBUG] [CategoriaController:50] Listando productos...
+[2022-11-08 19:29:25] [ INFO ] [CategoriaController:53] Productos listados
+[2022-11-08 19:29:28] [ DEBUG] [CategoriaController:50] Listando productos...
+[2022-11-08 19:29:28] [ INFO ] [CategoriaController:53] Productos listados
+[2022-11-08 19:29:30] [ DEBUG] [CategoriaController:50] Listando productos...
+[2022-11-08 19:29:30] [ INFO ] [CategoriaController:53] Productos listados
+>>>>>>> b750811dffaffce88fffb2da3d38cd92629f2411
+[2022-11-17 16:35:43] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:36:09] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:37:05] [ DEBUG] [AuthController:46] Registrando usuario...
+[2022-11-17 16:37:05] [ INFO ] [AuthController:69] Usuario registrado: string@gmail.com
+[2022-11-17 16:37:39] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:38:18] [ ERROR] [JwtProvider:56] Fallo con la firma
+[2022-11-17 16:38:18] [ ERROR] [JwtEntryPoint:18] Fallo en el metodo commence
+[2022-11-17 16:38:25] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:40:25] [ ERROR] [JwtProvider:56] Fallo con la firma
+[2022-11-17 16:40:25] [ ERROR] [JwtEntryPoint:18] Fallo en el metodo commence
+[2022-11-17 16:40:37] [ ERROR] [JwtProvider:56] Fallo con la firma
+[2022-11-17 16:40:37] [ ERROR] [JwtEntryPoint:18] Fallo en el metodo commence
+[2022-11-17 16:41:55] [ ERROR] [JwtProvider:56] Fallo con la firma
+[2022-11-17 16:41:55] [ ERROR] [JwtEntryPoint:18] Fallo en el metodo commence
+[2022-11-17 16:43:50] [ ERROR] [JwtProvider:55] Fallo con la firma
+io.jsonwebtoken.security.SignatureException: JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:399)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:529)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parseClaimsJws(DefaultJwtParser.java:589)
+	at Grupo7.Autitos.security.Jwt.JwtProvider.validateToken(JwtProvider.java:44)
+	at Grupo7.Autitos.security.Jwt.JwtTokenFilter.doFilterInternal(JwtTokenFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:112)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:82)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:221)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:186)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2022-11-17 16:43:50] [ ERROR] [JwtEntryPoint:18] Fallo en el metodo commence
+[2022-11-17 16:45:44] [ DEBUG] [AuthController:75] Logeando usuario...
+[2022-11-17 16:45:45] [ INFO ] [AuthController:89] Usuario logeado
+[2022-11-17 16:45:52] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:46:07] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:47:50] [ ERROR] [JwtProvider:55] Fallo con la firma
+io.jsonwebtoken.security.SignatureException: JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:399)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:529)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parseClaimsJws(DefaultJwtParser.java:589)
+	at Grupo7.Autitos.security.Jwt.JwtProvider.validateToken(JwtProvider.java:44)
+	at Grupo7.Autitos.security.Jwt.JwtTokenFilter.doFilterInternal(JwtTokenFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:112)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:82)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:221)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:186)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2022-11-17 16:47:50] [ ERROR] [JwtEntryPoint:18] Fallo en el metodo commence
+[2022-11-17 16:47:55] [ DEBUG] [AuthController:75] Logeando usuario...
+[2022-11-17 16:47:55] [ INFO ] [AuthController:89] Usuario logeado
+[2022-11-17 16:48:03] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:48:03] [ DEBUG] [UsuarioController:47] Listando usuarios...
+[2022-11-17 16:48:03] [ INFO ] [UsuarioController:50] Usuarios listados
+[2022-11-17 16:48:28] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:48:28] [ DEBUG] [UsuarioController:28] Agregando usuario...
+[2022-11-17 16:48:28] [ INFO ] [UsuarioController:31] Usuario agregado con id: 4
+[2022-11-17 16:52:13] [ ERROR] [JwtProvider:55] Fallo con la firma
+io.jsonwebtoken.security.SignatureException: JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:399)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:529)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parseClaimsJws(DefaultJwtParser.java:589)
+	at Grupo7.Autitos.security.Jwt.JwtProvider.validateToken(JwtProvider.java:44)
+	at Grupo7.Autitos.security.Jwt.JwtTokenFilter.doFilterInternal(JwtTokenFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:112)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:82)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:221)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:186)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2022-11-17 16:52:13] [ ERROR] [JwtEntryPoint:18] Fallo en el metodo commence
+[2022-11-17 16:52:21] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:53:05] [ ERROR] [JwtProvider:55] Fallo con la firma
+io.jsonwebtoken.security.SignatureException: JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:399)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:529)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parseClaimsJws(DefaultJwtParser.java:589)
+	at Grupo7.Autitos.security.Jwt.JwtProvider.validateToken(JwtProvider.java:44)
+	at Grupo7.Autitos.security.Jwt.JwtTokenFilter.doFilterInternal(JwtTokenFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:112)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:82)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:221)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:186)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2022-11-17 16:53:05] [ ERROR] [JwtEntryPoint:18] Fallo en el metodo commence
+[2022-11-17 16:53:20] [ DEBUG] [AuthController:75] Logeando usuario...
+[2022-11-17 16:53:20] [ INFO ] [AuthController:89] Usuario logeado
+[2022-11-17 16:53:32] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:53:32] [ DEBUG] [ReservaController:29] Agregando reserva...
+[2022-11-17 16:54:45] [ ERROR] [JwtProvider:55] Fallo con la firma
+io.jsonwebtoken.security.SignatureException: JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:399)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:529)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parseClaimsJws(DefaultJwtParser.java:589)
+	at Grupo7.Autitos.security.Jwt.JwtProvider.validateToken(JwtProvider.java:44)
+	at Grupo7.Autitos.security.Jwt.JwtTokenFilter.doFilterInternal(JwtTokenFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:112)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:82)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:221)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:186)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2022-11-17 16:54:45] [ ERROR] [JwtEntryPoint:18] Fallo en el metodo commence
+[2022-11-17 16:54:48] [ DEBUG] [AuthController:75] Logeando usuario...
+[2022-11-17 16:54:48] [ INFO ] [AuthController:89] Usuario logeado
+[2022-11-17 16:54:55] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:54:55] [ DEBUG] [ReservaController:29] Agregando reserva...
+[2022-11-17 16:57:27] [ ERROR] [JwtProvider:55] Fallo con la firma
+io.jsonwebtoken.security.SignatureException: JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:399)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:529)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parseClaimsJws(DefaultJwtParser.java:589)
+	at Grupo7.Autitos.security.Jwt.JwtProvider.validateToken(JwtProvider.java:44)
+	at Grupo7.Autitos.security.Jwt.JwtTokenFilter.doFilterInternal(JwtTokenFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:112)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:82)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:221)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:186)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2022-11-17 16:57:27] [ ERROR] [JwtEntryPoint:18] Fallo en el metodo commence
+[2022-11-17 16:57:38] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:57:38] [ DEBUG] [ProductoController:32] Agregando producto...
+[2022-11-17 16:57:53] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:57:53] [ DEBUG] [CategoriaController:27] Agregando categoria...
+[2022-11-17 16:57:53] [ INFO ] [CategoriaController:30] Categoria agregada con id: 1
+[2022-11-17 16:57:55] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:57:55] [ DEBUG] [CategoriaController:27] Agregando categoria...
+[2022-11-17 16:57:55] [ INFO ] [CategoriaController:30] Categoria agregada con id: 2
+[2022-11-17 16:57:56] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:57:56] [ DEBUG] [CategoriaController:27] Agregando categoria...
+[2022-11-17 16:57:56] [ INFO ] [CategoriaController:30] Categoria agregada con id: 3
+[2022-11-17 16:58:03] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:03] [ DEBUG] [CiudadController:28] Agregando ciudad...
+[2022-11-17 16:58:03] [ INFO ] [CiudadController:31] Ciudad agregada con id: 1
+[2022-11-17 16:58:04] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:04] [ DEBUG] [CiudadController:28] Agregando ciudad...
+[2022-11-17 16:58:04] [ INFO ] [CiudadController:31] Ciudad agregada con id: 2
+[2022-11-17 16:58:05] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:05] [ DEBUG] [CiudadController:28] Agregando ciudad...
+[2022-11-17 16:58:05] [ INFO ] [CiudadController:31] Ciudad agregada con id: 3
+[2022-11-17 16:58:06] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:06] [ DEBUG] [CiudadController:28] Agregando ciudad...
+[2022-11-17 16:58:06] [ INFO ] [CiudadController:31] Ciudad agregada con id: 4
+[2022-11-17 16:58:10] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:10] [ DEBUG] [CaracteristicaService:27] Agregando caracteristica...
+[2022-11-17 16:58:10] [ INFO ] [CaracteristicaService:30] Caracteristica agregada con id: 1
+[2022-11-17 16:58:11] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:11] [ DEBUG] [CaracteristicaService:27] Agregando caracteristica...
+[2022-11-17 16:58:11] [ INFO ] [CaracteristicaService:30] Caracteristica agregada con id: 2
+[2022-11-17 16:58:12] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:12] [ DEBUG] [CaracteristicaService:27] Agregando caracteristica...
+[2022-11-17 16:58:12] [ INFO ] [CaracteristicaService:30] Caracteristica agregada con id: 3
+[2022-11-17 16:58:13] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:13] [ DEBUG] [CaracteristicaService:27] Agregando caracteristica...
+[2022-11-17 16:58:13] [ INFO ] [CaracteristicaService:30] Caracteristica agregada con id: 4
+[2022-11-17 16:58:15] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:15] [ DEBUG] [ProductoController:32] Agregando producto...
+[2022-11-17 16:58:16] [ INFO ] [ProductoController:38] Producto agregado con id: 2
+[2022-11-17 16:58:16] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:16] [ DEBUG] [ProductoController:32] Agregando producto...
+[2022-11-17 16:58:17] [ INFO ] [ProductoController:38] Producto agregado con id: 3
+[2022-11-17 16:58:17] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:17] [ DEBUG] [ProductoController:32] Agregando producto...
+[2022-11-17 16:58:17] [ INFO ] [ProductoController:38] Producto agregado con id: 4
+[2022-11-17 16:58:18] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:18] [ DEBUG] [ProductoController:32] Agregando producto...
+[2022-11-17 16:58:18] [ INFO ] [ProductoController:38] Producto agregado con id: 5
+[2022-11-17 16:58:34] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:34] [ DEBUG] [ReservaController:29] Agregando reserva...
+[2022-11-17 16:58:44] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 16:58:44] [ DEBUG] [ReservaController:29] Agregando reserva...
+[2022-11-17 16:58:44] [ INFO ] [ReservaController:32] Reserva agregada con id: 3
+[2022-11-17 16:59:48] [ DEBUG] [AuthController:75] Logeando usuario...
+[2022-11-17 16:59:48] [ INFO ] [AuthController:89] Usuario logeado
+[2022-11-17 16:59:55] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 17:00:08] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 17:03:37] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 17:04:03] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 17:04:26] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 17:08:27] [ ERROR] [JwtProvider:55] Fallo con la firma
+io.jsonwebtoken.security.SignatureException: JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:399)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:529)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parseClaimsJws(DefaultJwtParser.java:589)
+	at Grupo7.Autitos.security.Jwt.JwtProvider.validateToken(JwtProvider.java:44)
+	at Grupo7.Autitos.security.Jwt.JwtTokenFilter.doFilterInternal(JwtTokenFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:112)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:82)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:221)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:186)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2022-11-17 17:08:27] [ DEBUG] [ReservaController:65] Buscando reservas...
+[2022-11-17 17:08:27] [ INFO ] [ReservaController:68] Reservas del producto con id: 3
+[2022-11-17 17:24:46] [ ERROR] [JwtProvider:55] Fallo con la firma
+io.jsonwebtoken.security.SignatureException: JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:399)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:529)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parseClaimsJws(DefaultJwtParser.java:589)
+	at Grupo7.Autitos.security.Jwt.JwtProvider.validateToken(JwtProvider.java:44)
+	at Grupo7.Autitos.security.Jwt.JwtTokenFilter.doFilterInternal(JwtTokenFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:112)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:82)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:346)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:221)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:186)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2022-11-17 17:24:51] [ DEBUG] [AuthController:75] Logeando usuario...
+[2022-11-17 17:24:51] [ ERROR] [JwtEntryPoint:18] Fallo en el metodo commence
+[2022-11-17 17:26:18] [ DEBUG] [AuthController:75] Logeando usuario...
+[2022-11-17 17:26:18] [ INFO ] [AuthController:89] Usuario logeado
+[2022-11-17 17:26:30] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 17:26:30] [ DEBUG] [ReservaController:65] Buscando reservas...
+[2022-11-17 17:26:30] [ INFO ] [ReservaController:68] Reservas del producto con id: 3
+[2022-11-17 17:27:18] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 17:27:22] [ INFO ] [JwtTokenFilter:41] Usuario con email: franco@gmail.com autenticado
+[2022-11-17 17:27:22] [ DEBUG] [ReservaController:29] Agregando reserva...
+[2022-11-17 17:27:22] [ INFO ] [ReservaController:32] Reserva agregada con id: 4

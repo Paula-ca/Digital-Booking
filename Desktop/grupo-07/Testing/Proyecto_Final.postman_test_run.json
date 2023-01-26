@@ -1,0 +1,443 @@
+{
+	"id": "1abacc17-94b4-4c76-841b-41d3e93c16c3",
+	"name": "Proyecto Final",
+	"timestamp": "2022-12-07T20:42:39.312Z",
+	"collection_id": "18553460-c1bc1974-efc1-431a-a5e6-981fbebbab31",
+	"folder_id": 0,
+	"environment_id": "18553460-2de1fe8f-77d9-4494-9628-0d281c891dfc",
+	"totalPass": 13,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "f8436eef-3cef-4dc7-a922-f2c38d1714df",
+			"name": "Login",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/auth/signin",
+			"time": 277,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				277
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "8206984f-7a66-4f5d-ab78-f4ba50f98846",
+			"name": "Get categories",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/categories/list/false",
+			"time": 178,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful GET request": true
+			},
+			"testPassFailCounts": {
+				"Successful GET request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				178
+			],
+			"allTests": [
+				{
+					"Successful GET request": true
+				}
+			]
+		},
+		{
+			"id": "5bdf7cb0-f5bc-4afa-bb7b-2191acd14939",
+			"name": "Get products",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/products/list",
+			"time": 200,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful GET request": true
+			},
+			"testPassFailCounts": {
+				"Successful GET request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				200
+			],
+			"allTests": [
+				{
+					"Successful GET request": true
+				}
+			]
+		},
+		{
+			"id": "272b2cfb-b4e7-41f6-b2ac-4b392af2f54d",
+			"name": "Get product by id",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/products/10",
+			"time": 182,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Id is correct!": true
+			},
+			"testPassFailCounts": {
+				"Id is correct!": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				182
+			],
+			"allTests": [
+				{
+					"Id is correct!": true
+				}
+			]
+		},
+		{
+			"id": "ca4b01a1-f689-40a2-adee-ff70b53bd0fa",
+			"name": "Get products category filter",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/products/list/category-1",
+			"time": 191,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful GET request": true
+			},
+			"testPassFailCounts": {
+				"Successful GET request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				191
+			],
+			"allTests": [
+				{
+					"Successful GET request": true
+				}
+			]
+		},
+		{
+			"id": "b00575c6-5b6c-4b59-928c-7dcb10222730",
+			"name": "Get products city filter",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/products/list/city-2",
+			"time": 182,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful GET request": true
+			},
+			"testPassFailCounts": {
+				"Successful GET request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				182
+			],
+			"allTests": [
+				{
+					"Successful GET request": true
+				}
+			]
+		},
+		{
+			"id": "2bf150f0-9220-47b7-8cc1-76345f936d05",
+			"name": "Get products booking filter by date/city",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/products/date-filter?inicio=2022-11-01&fin=2022-12-30",
+			"time": 197,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful GET request": true
+			},
+			"testPassFailCounts": {
+				"Successful GET request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				197
+			],
+			"allTests": [
+				{
+					"Successful GET request": true
+				}
+			]
+		},
+		{
+			"id": "02872532-3583-4599-acb4-8c4b9efcc97e",
+			"name": "Get city",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/cities/list",
+			"time": 178,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful GET request": true
+			},
+			"testPassFailCounts": {
+				"Successful GET request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				178
+			],
+			"allTests": [
+				{
+					"Successful GET request": true
+				}
+			]
+		},
+		{
+			"id": "c491c3a3-792c-46f4-9dac-785c9f9440fd",
+			"name": "Get features",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/features/list",
+			"time": 187,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful GET request": true
+			},
+			"testPassFailCounts": {
+				"Successful GET request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				187
+			],
+			"allTests": [
+				{
+					"Successful GET request": true
+				}
+			]
+		},
+		{
+			"id": "9cc77a81-c433-4dec-864b-c9caa37f2252",
+			"name": "Get bookings",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/bookings/list",
+			"time": 362,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful GET request": true
+			},
+			"testPassFailCounts": {
+				"Successful GET request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				362
+			],
+			"allTests": [
+				{
+					"Successful GET request": true
+				}
+			]
+		},
+		{
+			"id": "15ba5209-846d-45e5-b9b4-990679e113ff",
+			"name": "Get bookings for product",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/bookings/product/3",
+			"time": 176,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful GET request": true
+			},
+			"testPassFailCounts": {
+				"Successful GET request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				176
+			],
+			"allTests": [
+				{
+					"Successful GET request": true
+				}
+			]
+		},
+		{
+			"id": "3ffeec8f-ffb2-46db-8a0a-4468254c9e10",
+			"name": "Get bookigs for user",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/bookings/user/14",
+			"time": 186,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful GET request": true
+			},
+			"testPassFailCounts": {
+				"Successful GET request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				186
+			],
+			"allTests": [
+				{
+					"Successful GET request": true
+				}
+			]
+		},
+		{
+			"id": "a4eec8a1-56ad-490a-89ca-5b05bee5db19",
+			"name": "Get policies",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/policies/list",
+			"time": 177,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful GET request": true
+			},
+			"testPassFailCounts": {
+				"Successful GET request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				177
+			],
+			"allTests": [
+				{
+					"Successful GET request": true
+				}
+			]
+		},
+		{
+			"id": "7bf9593a-9029-43dd-9d48-6fecfba80081",
+			"name": "Get policies por titulo",
+			"url": "http://ec2-3-143-219-202.us-east-2.compute.amazonaws.com:8080/policies/list-Normas",
+			"time": 180,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Successful GET request": true
+			},
+			"testPassFailCounts": {
+				"Successful GET request": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				180
+			],
+			"allTests": [
+				{
+					"Successful GET request": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 2853,
+	"collection": {
+		"requests": [
+			{
+				"id": "f8436eef-3cef-4dc7-a922-f2c38d1714df",
+				"method": "POST"
+			},
+			{
+				"id": "8206984f-7a66-4f5d-ab78-f4ba50f98846",
+				"method": "GET"
+			},
+			{
+				"id": "5bdf7cb0-f5bc-4afa-bb7b-2191acd14939",
+				"method": "GET"
+			},
+			{
+				"id": "272b2cfb-b4e7-41f6-b2ac-4b392af2f54d",
+				"method": "GET"
+			},
+			{
+				"id": "ca4b01a1-f689-40a2-adee-ff70b53bd0fa",
+				"method": "GET"
+			},
+			{
+				"id": "b00575c6-5b6c-4b59-928c-7dcb10222730",
+				"method": "GET"
+			},
+			{
+				"id": "2bf150f0-9220-47b7-8cc1-76345f936d05",
+				"method": "GET"
+			},
+			{
+				"id": "02872532-3583-4599-acb4-8c4b9efcc97e",
+				"method": "GET"
+			},
+			{
+				"id": "c491c3a3-792c-46f4-9dac-785c9f9440fd",
+				"method": "GET"
+			},
+			{
+				"id": "9cc77a81-c433-4dec-864b-c9caa37f2252",
+				"method": "GET"
+			},
+			{
+				"id": "15ba5209-846d-45e5-b9b4-990679e113ff",
+				"method": "GET"
+			},
+			{
+				"id": "3ffeec8f-ffb2-46db-8a0a-4468254c9e10",
+				"method": "GET"
+			},
+			{
+				"id": "a4eec8a1-56ad-490a-89ca-5b05bee5db19",
+				"method": "GET"
+			},
+			{
+				"id": "7bf9593a-9029-43dd-9d48-6fecfba80081",
+				"method": "GET"
+			}
+		]
+	}
+}
